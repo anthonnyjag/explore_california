@@ -1,0 +1,1 @@
+git config --global core.excludesFile /c/Users/alarcong/.gitignore_global
